@@ -1,5 +1,5 @@
 export default {
-  "title": "Foamy NextJS",
+  "title": "Rachel's Thoughts",
   "description": "Digital Garden built with Foam and NextJS with MDX",
-  "author": "Yenly Ma"
+  "author": "Rachel How"
 }

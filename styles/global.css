@@ -8,16 +8,16 @@ html, .root {
   line-height: 27px;
 }
 body {
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu,
-    Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica Neue, sans-serif;
   font-size: 1rem;
   line-height: 1.5rem;
+  color: #222222;
 }
 h1, .h1 {
   font-size: 2.3888889rem;
   line-height: 3rem;
   margin-top: 1.5rem;
-  margin-bottom: 3rem;
+  margin-bottom: 1.5rem;
 }
 h2, .h2 {
   font-size: 1.7777778rem;
@@ -44,7 +44,7 @@ h5, .h5 {
   margin-bottom: 0rem;
 }
 p, ul, ol, pre, table, blockquote  {
-  margin-top: 0rem;
+  margin-top: 1.5rem;
   margin-bottom: 1.5rem;
 }
 ul ul, ol ol, ul ol, ol ul {
@@ -52,9 +52,13 @@ ul ul, ol ol, ul ol, ol ul {
   margin-bottom: 0rem;
 }
 
+#text {
+  border: 1px solid red;
+}
+
 /* Let's make sure all's aligned */
 hr, .hr {
-  border: 1px solid;
+  border: 1px solid #dadada;
   margin: -1px 0;
 }
 a, b, i, strong, em, small, code {
@@ -74,8 +78,23 @@ sub {
 /* end gridlover perfect fourth scale */
 
 .container {
-  max-width: 680px;
+  max-width: 1024px;
   margin: auto;
+  width: 100%;
+}
+
+.menu {
+  width: 200px;
+  height: 100vh;
+  float: left;
+  position: fixed;
+  z-index: 1;
+  overflow-y: scroll;
+  padding-top: 8px;
+}
+
+.content {
+  margin-left: 250px;
 }
 
 .contains-task-list {
@@ -87,7 +106,7 @@ sub {
 }
 
 pre {
-  font-size: 0.80rem;
+  font-size: 0.8rem;
 }
 
 a {
@@ -96,7 +115,7 @@ a {
 }
 
 a:hover {
-  text-decoration: underline;
+  border-bottom: 1.5px solid #0070f3;
 }
 
 img {
@@ -106,5 +125,6 @@ img {
 
 .footnotes {
   font-size: 0.8rem;
+  color: #727272;
   line-height: 1.25rem;
 }
