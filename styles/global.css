@@ -43,13 +43,22 @@ h5, .h5 {
   margin-top: 1.5rem;
   margin-bottom: 0rem;
 }
-p, ul, ol, pre, table, blockquote  {
+p, ul, ol, pre, table  {
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
 }
 ul ul, ol ol, ul ol, ol ul {
   margin-top: 1rem;
   margin-bottom: 1rem;
+}
+li {
+  padding-bottom: 8px;
+}
+blockquote {
+  border-left: 6px solid #f2f2f2;
+  margin: 12px 12px;
+  padding: 0px 24px;
+  color: #727272
 }
 
 /* Let's make sure all's aligned */
@@ -101,6 +110,7 @@ sub {
 }
 
 .content {
+  max-width: 800px;
   padding: 0 48px;
 }
 
