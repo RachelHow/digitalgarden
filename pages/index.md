@@ -1,7 +1,7 @@
 # **Rachel's Digital Garden**
 
 ## What's a mind garden
-This digital **garden** is a public notebook where I can freely explore ideas, thoughts, resources, questions, unknowns, and stuff I find useful and interesting. My garden embrace imperfection and is filled with interconnected ideas where it will change, evolve, and grow over time. It is unorganized on purpose—because what's life without a little chaos?
+This digital garden is a public notebook where I can freely explore ideas, thoughts, resources, questions, unknowns, and stuff I find useful and interesting. My garden embrace imperfection and is filled with interconnected ideas where it will change, evolve, and grow over time. It is unorganized on purpose—because what's life without a little chaos?
 
 ## Why am I doing this
 I believe the best way to learn is to learn, share and exchange ideas in public because we're all constantly a work-in-progress. My main purposes are:
