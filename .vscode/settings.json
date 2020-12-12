@@ -4,10 +4,10 @@
   "foam.openDailyNote.fileExtension": "mdx",
   "foam.openDailyNote.titleFormat": "'Journal Entry on' yyyy-mm-dd",
   "editor.minimap.enabled": false,
-  "editor.wrappingIndent": "indent",
+  // "editor.wrappingIndent": "indent",
   "editor.overviewRulerBorder": false,
   "editor.lineHeight": 24,
-  "workbench.colorTheme": "Gray Matter Dark",
+  "workbench.colorTheme": "Gray Matter Light",
   "[markdown]": {
     "editor.quickSuggestions": true
   },
