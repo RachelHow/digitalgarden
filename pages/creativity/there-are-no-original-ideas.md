@@ -1,7 +1,7 @@
 # There Are No Original Ideas
 
-Those who believe their ideas are original most probably haven't read widely enough.
+Read more. Those who believe their ideas are original most probably haven't read widely enough.
 
 > "It is much faster and less risky to read more widely and repurpose what is already working, or has worked somewhere else, than to attempt to come up with an idea that you think is original but actually isn’t.” — Emerson Spartz
 
-You don't have to constantly be the first one to come up with a new idea. Find classic ideas and repurpose them instead—Evergreen ideas that have stood the test of time.
+You don't have to constantly come up with a new idea. Find classic ideas and repurpose them instead—Evergreen ideas that have stood the test of time.

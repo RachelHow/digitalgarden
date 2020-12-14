@@ -1,5 +1,7 @@
 # Creativity
 
+> "Creativity is just connecting things." — Steve Jobs
+
 - [[there-are-no-original-ideas]]
 - [[the-future-belongs-to-deep-generalists]]
 - [[everyone-needs-a-side-project]]
