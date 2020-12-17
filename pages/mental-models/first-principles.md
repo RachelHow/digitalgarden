@@ -8,7 +8,8 @@ To apply this mental model, ask yourself:[^s1]
 - If not, what are the underlying principles it relies on?  
 - Can I restart from those principles to identify a remarkably better way to run this system?
 
-To identify which system is worth optimising, use the second mental model: [[local-global]].
+To identify which system is worth optimising, use the second mental model:
+[[local-global]].
 
 [^s1]: [Julian's Blog](https://www.julian.com/blog/mental-model-examples)
 
