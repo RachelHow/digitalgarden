@@ -1,6 +1,6 @@
 # **Rachel's Digital Garden**
 
-Last updated: 17 Dec 2020, 10:30PM
+Last updated: 17 Dec 2020, 10:46PM
 
 ## What's a mind garden
 This digital garden is a public notebook where I can freely explore ideas, thoughts, resources, questions, unknowns, and stuff I find useful and interesting. My garden embrace imperfection and is filled with interconnected ideas where it will change, evolve, and grow over time. It is unorganized on purpose—because what's life without a little chaos? Read the [[terms-of-service]] of this garden.

@@ -1,19 +1,22 @@
 # Mental Models
 
-Growing up, we become accustomed to think like the others without questioning why things are done in a certain way. We then believe this is the way things are and do things the usual way, just like the others. How do we change that? By training our brains to think better.
+Growing up, we become accustomed to think like the others without questioning why things are done in a certain way. We then believe this is the way things are.
 
-To think better, expand the set of mental models we use to think.[^s1]
+> "When a certain worldview dominates your thinking, you’ll try to explain every problem you face through that worldview." — James Clear
 
-A mental model is how our mind works/thinks. Mental models help us **optimise systems** (assessing how systems work) and how they help us make **better decisions**. It affects everything we do.
+How do we change that? By training our brains to think better. To think better, expand your set of mental models.[^s1] 
 
-Ever wondered what makes a person an outlier? Outliers use mental models to shape their thinking. They resist the habit of following the gut/instincts—they switch to mental models instead. Examples of outliers include Jeff Bezos, Elon Musk, Warren Buffett.
+Ever wondered what makes a person an outlier? Outliers resist the habit of following the gut/instincts—they switch to mental models instead. They see things differently because they have a broader set of mental models. Examples of outliers include Jeff Bezos, Elon Musk, Warren Buffett.
 
-There are over 1,000 mental models in the world. Here are some mental models that I find interesting:
+A mental model guides our perception and behavior. It shapes how we think and affects everything we do. Mental models help us **optimise systems** (assessing how systems work) and how they help us make **better decisions**.
+
+There are 1,000+ mental models in the world but we only need to learn a few dozen to grasp how the world works. Block 20 minutes weekly to reflect and run our life decisions through mental models from the third-person point of view.
+
+Here are some mental models that I find interesting:
 - [[first-principles]]
 - [[local-global]]
 - [[regret-minimisation]]
 - [[pareto-principle]]
-
 
 [^s1]: [James Clear: Mental Models](https://jamesclear.com/mental-models)
 
