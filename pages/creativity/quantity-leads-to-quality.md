@@ -1,0 +1,5 @@
+# Quantity Leads to Quality
+
+Generating lots of ideas increases your chances of having brilliant ideas.
+
+When ideating, diverge first then converge later. Top performers excel at what they do because they produce a lot of work.

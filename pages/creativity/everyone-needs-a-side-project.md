@@ -2,8 +2,7 @@
 
 Our hobbies and interests help us learn and grow to become better at what we do, even when they seem somewhat unrelated. Pick a keystone habit to keep creativity juices flowing.
 
-Working on more than one project at a time makes us more creative. See 
-[[multiple-side-projects-yields-creativity]]
+Working on more than one project at a time makes us more creative. See [[multiple-side-projects-yields-creativity]]
 
 Do work you can't resist and see where your passions take you. It will lead to serendipitous innovation.
 
