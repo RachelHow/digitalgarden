@@ -5,5 +5,7 @@ Books that I'd like to read:
 - [ ] The Almanack of Naval Ravikant
 - [ ] I, Steve: Steve Jobs in His Own Words
 - [ ] The Personal MBA: Master the Art of Business
+- [ ] 101 Essays That Will Change The Way You Think
+- [ ] Hacking Growth
 
 Need inspiration? Try James Clear's [list](https://jamesclear.com/best-books) of best books or his [book summaries](https://jamesclear.com/book-summaries).
